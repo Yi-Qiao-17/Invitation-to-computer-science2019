@@ -1,1 +1,1 @@
-# -
+# Invitation to Computer Science
